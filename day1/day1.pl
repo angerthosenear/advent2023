@@ -1,4 +1,4 @@
-my $filename = 'day1input.txt';
+my $filename = 'day1/day1input.txt';
 
 open(my $fh, '<', $filename) or die "Could not open file '$filename' $!";
 
